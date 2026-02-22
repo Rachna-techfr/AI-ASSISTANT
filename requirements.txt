@@ -1,0 +1,6 @@
+Flask
+ollama
+pyttsx3
+opencv-python
+SpeechRecognition
+pyaudio
