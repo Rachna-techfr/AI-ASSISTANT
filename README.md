@@ -27,7 +27,7 @@ The assistant can:
 
 ### 💻 System Automation
 - Open Google, YouTube
-- Open Notepad, Calculator, WhatsApp
+- Open Notepad, Calculator
 - Shutdown & Restart system
 - Get current time
 
